@@ -1,0 +1,5 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+disableAliases = true
+disableKinds = ["page","section","taxonomy","term","RSS","404","sitemap"]
