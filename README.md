@@ -15,7 +15,7 @@ Also tested using `--disableFastRender` still __doesnt work__.
 
 ---
 
-__layouts/_default/_markup/render-link.html__
+**layouts/_default/_markup/render-link.html**
 
 ```
 {{/* partial template dynamic call */}}
